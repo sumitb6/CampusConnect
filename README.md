@@ -1,2 +1,2 @@
 # CampusConnect
-https://github.com/sumitb6/CampusConnect.git
+https://sumitb6.github.io/CampusConnect/
