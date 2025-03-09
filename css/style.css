@@ -90,3 +90,192 @@ ul li {
     color: #2c3e50;
     margin-bottom: 8px;
 }
+/* 3rd Section Styling */
+.more-than-events {
+    padding: 50px 0;
+}
+
+/* Section Heading */
+.section-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #212121;
+}
+
+.section-heading .highlight {
+    color: #34495e;
+}
+
+/* Bio Text */
+.section-bio {
+    font-size: 1.2rem;
+    color: #212121;
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+}
+
+/* Icon Box Styling */
+.icon-box {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.icon-box i {
+    font-size: 40px;
+    color: #34495e;
+    margin-bottom: 15px;
+}
+
+.icon-box h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #34495e;
+    margin-bottom: 15px;
+}
+
+.icon-box p {
+    font-size: 1rem;
+    color: #212121;
+}
+
+/* Hover Effect */
+.icon-box:hover {
+    transform: translateY(-5px);
+}
+
+/* 4th Section Styling */
+.getting-started {
+    padding: 50px 0;
+}
+
+/* Section Heading */
+.section-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #34495e;
+}
+
+.section-heading .highlight {
+    color: #212121;
+}
+
+/* Bio Text */
+.section-bio {
+    font-size: 1.2rem;
+    color: #212121;
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+}
+
+/* Step Box Styling */
+.step-box {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Step Number Styling */
+/* Step Box Styling */
+.step-box {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    height: 220px; /* Ensuring equal height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Step Number Styling */
+.step-box .step-number {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #212121;
+    margin-bottom: 10px;
+}
+
+/* Title Text */
+.step-box h4 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #34495e;
+    margin-bottom: 8px;
+}
+
+/* Text Below Title */
+.step-box p {
+    font-size: 1rem;
+    color: #212121;
+}
+
+/* Hover Effect */
+.step-box:hover {
+    transform: translateY(-5px);
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #212121;
+    padding: 40px 0;
+    color: #bbb; /* Slightly light color */
+    font-size: 14px;
+}
+.row{
+    text-align: center;
+}
+/* Footer Titles */
+.footer-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ccc; /* Slightly lighter than links */
+    margin-bottom: 10px;
+}
+
+/* Footer Links */
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 5px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #aaa; /* Slightly dark than title */
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-links a:hover {
+    color: #fff; /* Brighter on hover */
+}
+
+/* Social Media Icons */
+.social-icons a {
+    font-size: 20px;
+    margin: 0 10px;
+    color: #ccc; /* Same as title color */
+    transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #fff;
+}
+
+/* Copyright Text */
+.copyright {
+    color: #bbb;
+    font-size: 13px;
+    margin-top: 20px;
+}
